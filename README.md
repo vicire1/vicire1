@@ -7,10 +7,10 @@
 <br>
 <hr>
 
--    ✅ [Libft](https://github.com/vicire1/libft)
--    ✅ [ft_printf](https://github.com/vicire1/printf) / [get_next_line](https://github.com/vicire1/GNL) / Born2beroot
--    ✅ [push_swap](https://github.com/vicire1/Push_swap) / [pipex](https://github.com/vicire1/Pipex) / [so_long](https://github.com/vicire1/So_long)
--    ✅ [Philosophers](https://github.com/vicire1/Philo) / [Minishell](https://github.com/vicire1/42_minishell) / NetPractice
+-    ✅ [Libft](https://github.com/vicire1/19_libft)
+-    ✅ [Ft_Printf](https://github.com/vicire1/19_ft_printf) / [Get_next_nine](https://github.com/vicire1/19_get_next_line) / Born2beroot
+-    ✅ [Push_swap](https://github.com/vicire1/19_push_swap) / [Pipex](https://github.com/vicire1/19_pipex) / [So_long](https://github.com/vicire1/19_so_long)
+-    ✅ [Philosophers](https://github.com/vicire1/19_philosophers) / [Minishell](https://github.com/vicire1/19_minishell) / NetPractice
 -    ✍️ [cub3D](https://github.com/vicire1/42_Cub3D)
 <hr>
 
