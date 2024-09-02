@@ -1,23 +1,42 @@
 <div align="center">
-    My name is <b>V</b>ictor <b>D</b>ecleire I'm student at 19 school (42 network), Belgium.
+    <h2>Welcome to My GitHub!</h2>
+    <p>My name is <strong>Victor Decleire</strong>, a student at <a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">19 school (42 network)</a>, Belgium.</p>
     <a href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
-    <img align="left" src="https://pbs.twimg.com/profile_images/1578367273147957249/gGjaUZQ-_400x400.jpg" alt="19" height="200">
+        <img src="https://pbs.twimg.com/profile_images/1578367273147957249/gGjaUZQ-_400x400.jpg" alt="19 School Logo" height="150" style="border-radius: 50%;">
     </a>
 </div>
-<br>
-<br>
-<p>
-    <a align="left" href="http://www.github.com/vicire1"><img src="https://github-readme-stats.vercel.app/api?username=vicire1&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="vicire1's GitHub stats" /></a>
-    <a href="https://github.com/vicire1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicire1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-<br>
+
 <hr>
 
--    ✅ [Libft](https://github.com/vicire1/19_libft)
--    ✅ [Ft_Printf](https://github.com/vicire1/19_ft_printf) / [Get_next_line](https://github.com/vicire1/19_get_next_line) / Born2beroot
--    ✅ [Push_swap](https://github.com/vicire1/19_push_swap) / [Pipex](https://github.com/vicire1/19_pipex) / [So_long](https://github.com/vicire1/19_so_long)
--    ✅ [Philosophers](https://github.com/vicire1/19_philosophers) / [Minishell](https://github.com/vicire1/19_minishell)
--    ✍️ [cub3D](https://github.com/vicire1/19_cub3D) / NetPractice
+<div align="center">
+    <p>
+        <a href="http://www.github.com/vicire1">
+            <img src="https://github-readme-stats.vercel.app/api?username=vicire1&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
+        </a>
+        <a href="https://github.com/vicire1">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicire1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="48%">
+        </a>
+    </p>
+</div>
+
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,vscode,github,git)](https://skillicons.dev)
+<div align="center">
+    <h3>Completed Projects</h3>
+    <ul>
+        <li>✅ <a href="https://github.com/vicire1/19_libft">Libft</a></li>
+        <li>✅ <a href="https://github.com/vicire1/19_ft_printf">Ft_Printf</a> / <a href="https://github.com/vicire1/19_get_next_line">Get_next_line</a> / Born2beroot</li>
+        <li>✅ <a href="https://github.com/vicire1/19_push_swap">Push_swap</a> / <a href="https://github.com/vicire1/19_pipex">Pipex</a> / <a href="https://github.com/vicire1/19_so_long">So_long</a></li>
+        <li>✅ <a href="https://github.com/vicire1/19_philosophers">Philosophers</a> / <a href="https://github.com/vicire1/19_minishell">Minishell</a></li>
+        <li>✍️ <a href="https://github.com/vicire1/19_cub3D">cub3D</a> / NetPractice</li>
+    </ul>
+</div>
+
+<hr>
+
+<div align="center">
+    <h3>My Skills</h3>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,vscode,github,git" alt="Skills" />
+    </a>
+</div>
