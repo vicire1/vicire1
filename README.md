@@ -2,7 +2,7 @@
     My name is <b>V</b>ictor <b>D</b>ecleire I'm student at 19 school (42 network), Belgium.<br><br>
 </div>
 <a  href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
-    <img src="https://cdn.dorik.com/60d9e60019777c001197de7e/629a22a6e91a890012ba18dc/images/19-blanc_yd72cr9s.png" alt="19" height="70">
+    <img src="https://pbs.twimg.com/profile_images/1578367273147957249/gGjaUZQ-_400x400.jpg" alt="19" height="70">
 </a>
 <br>
 <hr>
