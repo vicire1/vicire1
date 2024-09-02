@@ -14,4 +14,4 @@
 -    ✍️ [cub3D](https://github.com/vicire1/19_cub3D)
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,vscode,github,git,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,vscode,github,git)](https://skillicons.dev)
