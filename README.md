@@ -9,19 +9,6 @@
 <hr>
 
 <div align="center">
-    <p>
-        <a href="https://github.com/vicire1">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicire1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="48%">
-        <a href="http://www.github.com/vicire1">
-            <img src="https://github-readme-stats.vercel.app/api?username=vicire1&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
-        </a>
-        </a>
-    </p>
-</div>
-
-<hr>
-
-<div align="center">
     <h3>Completed Projects</h3>
     <ul>
         <li>✅ <a href="https://github.com/vicire1/19_libft">Libft</a></li>
@@ -39,4 +26,17 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,vscode,github,git" alt="Skills" />
     </a>
+</div>
+
+<hr>
+
+<div align="center">
+    <p>
+        <a href="https://github.com/vicire1">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicire1&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="48%">
+        <a href="http://www.github.com/vicire1">
+            <img src="https://github-readme-stats.vercel.app/api?username=vicire1&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%">
+        </a>
+        </a>
+    </p>
 </div>
