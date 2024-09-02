@@ -2,7 +2,7 @@
     My name is <b>V</b>ictor <b>D</b>ecleire I'm student at 19 school (42 network), Belgium.<br><br>
 </div>
 <a align="left" href="https://campus19.be/" target="_blank" rel="noreferrer noopener">
-    <img src="https://pbs.twimg.com/profile_images/1578367273147957249/gGjaUZQ-_400x400.jpg" alt="19" height="150">
+    <img src="https://pbs.twimg.com/profile_images/1578367273147957249/gGjaUZQ-_400x400.jpg" alt="19" height="200">
 </a>
 <p align="left">
     <a href="http://www.github.com/vicire1"><img src="https://github-readme-stats.vercel.app/api?username=Zaiicko&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Zaiicko's GitHub stats" /></a>
