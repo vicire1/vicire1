@@ -9,7 +9,7 @@
 <hr>
 
 <div align="center">
-    <h3>Completed Projects</h3>
+    <h3>19 Projects</h3>
     <p>✅ <a href="https://github.com/vicire1/19_libft">Libft</a></p>
     <p>✅ <a href="https://github.com/vicire1/19_ft_printf">Ft_Printf</a> / <a href="https://github.com/vicire1/19_get_next_line">Get_next_line</a> / Born2beroot</p>
     <p>✅ <a href="https://github.com/vicire1/19_push_swap">Push_swap</a> / <a href="https://github.com/vicire1/19_pipex">Pipex</a> / <a href="https://github.com/vicire1/19_so_long">So_long</a></p>
