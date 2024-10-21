@@ -22,7 +22,7 @@
 <div align="center">
     <h3>My Skills</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,github,git,bash,vscode,vim" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=c,github,git,bash,vscode,vim,aws" alt="Skills" />
     </a>
 </div>
 
