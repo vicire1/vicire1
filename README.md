@@ -24,6 +24,9 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,github,git,bash,vscode,vim,aws" alt="Skills" />
     </a>
+    <a href="https://www.credly.com/badges/8d8a3e35-234d-4a49-a1f4-463c2fb59407/public_url" target="_blank" rel="noreferrer noopener">
+        ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/e697e0c8-f8c6-4415-90aa-a8411f8c2841)
+    </a>
 </div>
 
 <hr>
