@@ -21,12 +21,12 @@
 
 <div align="center">
     <h3>My Skills</h3>
-    <a href="https://skillicons.dev">
+    <p href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,github,git,bash,vscode,vim,aws" alt="Skills" />
-    </a>
-    <a href="https://www.credly.com/badges/8d8a3e35-234d-4a49-a1f4-463c2fb59407/public_url" target="_blank" rel="noreferrer noopener">
+    </p>
+    <p href="https://www.credly.com/badges/8d8a3e35-234d-4a49-a1f4-463c2fb59407/public_url" target="_blank" rel="noreferrer noopener">
         <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="CP Badge" height="150" style="border-radius: 50%;">
-    </a>
+    </p>
 </div>
 
 <hr>
