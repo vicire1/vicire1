@@ -16,7 +16,7 @@
     <p>✅ <a href="https://github.com/vicire1/19_philosophers">Philosophers</a> / <a href="https://github.com/vicire1/19_minishell">Minishell</a></p>
     <p>✅ <a href="https://github.com/vicire1/19_cub3D">cub3D</a> / NetPractice / <a href="https://github.com/vicire1/19_cpp-module00_to_04">Cpp Module 00 to 04</a></p>
     <p>✅ <a href="https://github.com/19WebServ/19_WebServ">WebServ</a> / <a href="https://github.com/vicire1/19_Inception">Inception</a> / <a href="https://github.com/vicire1/19_cpp-module05_to_09">Cpp Module 05 to 09</a></p>
-    <p>✍️ Ft_transcendence</p>
+    <p>✅ Ft_transcendence</p>
 </div>
 
 <hr>
